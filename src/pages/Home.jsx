@@ -24,6 +24,7 @@ function Home() {
             <main>
                 <section className="content">
                     <h2 className="text-3xl">最新情報</h2>
+                    <p>最新情報です</p>
                 </section>
             </main>
 
